@@ -58,13 +58,13 @@ export default function Navbar() {
               )}
             </div>
           </button>
-          <a
-            href="/resume.pdf"
-            download="KI_SREY_NITH_CV.pdf"
-            className="font-mono text-[12.5px] font-semibold bg-neutral-900 text-white dark:bg-neutral-100 dark:text-neutral-900 px-4 py-2 rounded-lg hover:opacity-85 transition-opacity"
-          >
-            Resume ↓
-          </a>
+        <a
+  href="/react-demo/resume.pdf" 
+  download="KI_SREY_NITH_CV.pdf"
+  className="font-mono text-[12.5px] font-semibold bg-neutral-900 text-white dark:bg-neutral-100 dark:text-neutral-900 px-4 py-2 rounded-lg hover:opacity-85 transition-opacity"
+>
+  Resume ↓
+</a>
         </div>
       </div>
     </div>
