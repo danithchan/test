@@ -13,7 +13,7 @@ export default function Home() {
                         <span className="text-pink-500">
                             <TypingText text="Sreynith" speed={150} deleteSpeed={70} startDelay={400} />
                         </span>
-                        <div className="text-black-500 text-xl max-w-lg mb-8  font-bold">Fullstack Developer | Computer Science Student</div>
+                        <div className="text-black-500 text-xl max-w-lg mb-8  font-bold">Web Developer | Computer Science Student</div>
                     </h1>
                     <div className="flex gap-4 animate-fade-up" style={{ animationDelay: '240ms' }}>
                         <a

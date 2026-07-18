@@ -5,7 +5,7 @@ import Skills from './Page/Skills';
 import Projects from './Page/Projects';
 import Experience from './Page/Experience';
 import Contact from './Page/Contact';
-import Comment from './Page/Comment';
+// import Comment from './Page/Comment';
 import Footer from './Page/Footer';
 import './App.css';
 
@@ -20,7 +20,7 @@ function App() {
         <Projects />
         <Experience />
         <Contact />
-        <Comment />
+        {/* <Comment /> */}
       </main>
       <Footer />
     </div>

@@ -23,36 +23,37 @@ const projects: Project[] = [
       "PostgreSQL",
       "Prisma",
     ],
-    demoUrl: "#",
+    demoUrl: "https://room-rental-project-gamma.vercel.app/",
     codeUrl: "https://github.com/danithchan/Room-Rental-Project",
   },
+  // {
+  //   title: "Personal Portfolio",
+  //   badge: "REACT",
+  //   description:
+  //     "A modern portfolio website showcasing my projects, skills, and experience with smooth animations, responsive layouts, dark mode, and reusable React components.",
+  //   tags: ["React", "TypeScript", "Tailwind CSS", "Vite"],
+  //   demoUrl: "#",
+  //   codeUrl: "#",
+  // },
   {
-    title: "Personal Portfolio",
-    badge: "REACT",
+    title: "Delivery Drone",
+    badge: "AI / IoT Concept",
     description:
-      "A modern portfolio website showcasing my projects, skills, and experience with smooth animations, responsive layouts, dark mode, and reusable React components.",
-    tags: ["React", "TypeScript", "Tailwind CSS", "Vite"],
-    demoUrl: "#",
+      "A smart logistics concept exploring drone technology to enable faster, more efficient, and innovative delivery solutions.",
+    tags: ["Drone Technology", "IoT", "Smart Logistics"],
+
+    demoUrl: "https://drive.google.com/file/d/1j_ufk73Kw_lQ6Srya-bBr0BKASBrDKk5/view?usp=sharing",
     codeUrl: "#",
   },
-  {
-    title: "Coffee Shop Website",
-    badge: "WEB",
-    description:
-      "A responsive coffee shop website with menu browsing, shopping cart, local storage, and payment method selection, built to practice responsive UI design.",
-    tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-    demoUrl: "#",
-    codeUrl: "#",
-  },
-  {
-    title: "Academy Landing Page",
-    badge: "UI",
-    description:
-      "A clean and responsive educational landing page designed with modern typography, reusable components, and mobile-first design principles.",
-    tags: ["HTML", "Tailwind CSS", "Responsive Design"],
-    demoUrl: "#",
-    codeUrl: "#",
-  },
+  // {
+  //   title: "Academy Landing Page",
+  //   badge: "UI",
+  //   description:
+  //     "A clean and responsive educational landing page designed with modern typography, reusable components, and mobile-first design principles.",
+  //   tags: ["HTML", "Tailwind CSS", "Responsive Design"],
+  //   demoUrl: "#",
+  //   codeUrl: "#",
+  // },
 ];
 
 export default function Projects() {
@@ -67,9 +68,7 @@ export default function Projects() {
         </h2>
 
         <p className="text-neutral-500 dark:text-neutral-400 max-w-2xl mb-10">
-          Here are some of the projects I've built while learning frontend and
-          full-stack development. Each project helped me strengthen my skills in
-          React, TypeScript, responsive design, and backend development.
+          A showcase of projects I’ve built while developing my skills in frontend and full-stack development. From web applications to innovative concepts, each project reflects my passion for creating modern, responsive, and meaningful digital experiences.
         </p>
       </Reveal>
 

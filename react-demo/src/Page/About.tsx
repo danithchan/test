@@ -30,7 +30,7 @@ const aboutPoints = [
   <>
     I'm currently looking for an{" "}
     <strong className="font-semibold text-neutral-900 dark:text-neutral-100">
-      Internship or Junior Frontend Developer
+      Internship or Junior Web Developer
     </strong>{" "}
     opportunity where I can contribute, learn from experienced developers, and
     continue growing my skills.

@@ -13,18 +13,18 @@ const experience = [
     description:
       "Developed a full-stack web application using React, TypeScript, Express.js, PostgreSQL, and Prisma ORM. Implemented authentication, room management, dashboards, and responsive user interfaces.",
   },
-  {
-    date: "2026",
-    title: "Personal Portfolio Website",
-    description:
-      "Designed and built a modern, responsive portfolio using React, Tailwind CSS, and TypeScript with smooth animations, reusable components, and dark mode support.",
-  },
-  {
-    date: "2025 - Present",
-    title: "Frontend Development Learning",
-    description:
-      "Continuously improving my skills in React, TypeScript, Tailwind CSS, React Router, Context API, React Hook Form, Zod, and modern frontend best practices by building real-world projects.",
-  },
+  // {
+  //   date: "2026",
+  //   title: "Personal Portfolio Website",
+  //   description:
+  //     "Designed and built a modern, responsive portfolio using React, Tailwind CSS, and TypeScript with smooth animations, reusable components, and dark mode support.",
+  // },
+  // {
+  //   date: "2025 - Present",
+  //   title: "Frontend Development Learning",
+  //   description:
+  //     "Continuously improving my skills in React, TypeScript, Tailwind CSS, React Router, Context API, React Hook Form, Zod, and modern frontend best practices by building real-world projects.",
+  // },
 ];
 
 export default function Experience() {
